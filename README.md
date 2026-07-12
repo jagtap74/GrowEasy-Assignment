@@ -91,10 +91,12 @@ GROQ_API_KEY=your_api_key
 
 ## Screenshots
 
-### CSV Preview
+## CSV Preview
+
 ![CSV Preview](screenshots/csv-preview.png)
 
-### AI Extracted CRM Records
+## AI Extracted CRM Records
+
 ![AI Result](screenshots/ai-result.png)
 
 ## Author
