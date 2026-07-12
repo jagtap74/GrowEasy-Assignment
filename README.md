@@ -102,3 +102,11 @@ GROQ_API_KEY=your_api_key
 ## Author
 
 Jagtap Vaishnavi Bhausaheb
+
+## Live Demo
+
+Frontend:
+https://grow-easy-assignment-six.vercel.app
+
+Backend:
+https://groweasy-backend-l7fh.onrender.com
