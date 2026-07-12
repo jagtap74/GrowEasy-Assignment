@@ -21,7 +21,7 @@ export default function Home() {
 
     try {
       const res = await axios.post(
-        "http://localhost:5000/upload",
+        "https://groweasy-backend-l7fh.onrender.com",
         formData
       );
 
@@ -37,7 +37,7 @@ export default function Home() {
       setLoading(true);
 
       const res = await axios.post(
-        "http://localhost:5000/import",
+        "https://groweasy-backend-l7fh.onrender.com",
         {
           rows,
         }
